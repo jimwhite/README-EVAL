@@ -3,7 +3,7 @@ README-EVAL
 
 Home repository for the README-EVAL evaluation system
 
-The ACL 2014 Semantic Parsing workshop abstract describing what README-EVAL is about is available here [Towards README-EVAL : Interpreting README File Instructions](http://acl2014.org/acl2014/W14-24/pdf/W14-2415.pdf).
+The ACL 2014 Semantic Parsing workshop abstract describing what README-EVAL is about is available here [Towards README-EVAL : Interpreting README File Instructions](http://acl2014.org/acl2014/W14-24/pdf/W14-2415.pdf).  The poster I showed at the workshop is [here](http://students.washington.edu/jimwhite/SP14%20Poster.pdf).
 
 README-EVAL has not been implemented yet which is why there is no code or data here.
 The code that does exist is an RPM distro file extractor and browser.  
