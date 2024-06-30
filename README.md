@@ -3,11 +3,12 @@ README-EVAL
 
 Home repository for the README-EVAL evaluation system
 
-The ACL 2014 Semantic Parsing workshop abstract describing what README-EVAL is about is available here [Towards README-EVAL : Interpreting README File Instructions](http://acl2014.org/acl2014/W14-24/pdf/W14-2415.pdf).  The poster I showed at the workshop is [here](http://students.washington.edu/jimwhite/SP14%20Poster.pdf).
+The ACL 2014 Semantic Parsing workshop abstract describing what README-EVAL is about is available here [Towards README-EVAL : Interpreting README File Instructions](https://aclanthology.org/W14-2415/).
+
+The poster I showed at the workshop is [README-EVAL poster PDF](https://drive.google.com/file/d/1K8GPTjDy17zFm4qnKQghFLYr1x7KYwmz/view?usp=sharing).
 
 README-EVAL has not been implemented yet which is why there is no code or data here.
-The code that does exist is an RPM distro file extractor and browser.  
-That code ([PackageExtractor](https://github.com/jimwhite/ReadIt/tree/master/PackageExtractor) and [PackageIndexer](https://github.com/jimwhite/ReadIt/tree/master/PackageIndexer)) is in the ReadIt repository and should work with 
+The code that does exist is an RPM distro file extractor and browser.  That code ([PackageExtractor](https://github.com/jimwhite/ReadIt/tree/master/PackageExtractor) and [PackageIndexer](https://github.com/jimwhite/ReadIt/tree/master/PackageIndexer)) is in the ReadIt repository and should work with 
 most any Fedora RPMS distribution.  That data is not reproduced here because it is fairly large
 when unpacked (~35GB for Fedora Core 17).
 
